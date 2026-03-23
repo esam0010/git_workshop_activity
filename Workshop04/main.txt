@@ -11,6 +11,6 @@ set CLOCK to 50 Hz
 
 // Complete some polling task
 
-// polling task has been fixed
+<< Polling task >> // Aaron completed polling task
 
 // TODO: Ben's feature to be added below, please delete this comment when added
